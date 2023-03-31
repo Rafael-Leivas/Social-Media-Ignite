@@ -1,7 +1,7 @@
 .navbar{
-    background: #202024;
+    background: #ffff;
     height: 100px;
-    color: #fff;
+    color: var(--white);
     display: flex;
     align-items: center;
     justify-content: center;
