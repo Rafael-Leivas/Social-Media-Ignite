@@ -1,5 +1,5 @@
 .navbar{
-    background: #ffff;
+    background: var(--gray-800);
     height: 100px;
     color: var(--white);
     display: flex;
