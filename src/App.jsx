@@ -21,6 +21,11 @@ export function App() {
             content='Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint eveniet, velit similique repudiandae magnam magni debitis omnis, sapiente aspernatur ipsum ea consequatur ipsa illum maxime? Eius facilis repudiandae beatae nemo!'
             />
 
+        <Post 
+            author='Rafael Leivas'
+            content='Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint eveniet, velit similique repudiandae magnam magni debitis omnis, sapiente aspernatur ipsum ea consequatur ipsa illum maxime? Eius facilis repudiandae beatae nemo!'
+            />
+
         </main>
       </div>
     </div>
